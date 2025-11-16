@@ -1,8 +1,8 @@
-# PhaseB_5299
+# Discovering the lost minoan palaces
 
 ## Overview:
 
-PhaseB_5299 is the second phase of implementing the game "Searching for the Lost Minoan Palaces". It is a Java-based game project designed using the Model-View-Controller (MVC) architecture. 
+Discovering the lost minoan palaces is a Java-based game project designed using the Model-View-Controller (MVC) architecture. 
 
 The game starts by picking a player randomly to have the first turn. Each player have 8 cards. and there is 4 paths in the board of the game. Each player have 4 pawns (3 archaeologists and 1 Theseus) and each one will have its own path.
 To start a path you should throw a Simple Card. the simple card moves the pawns 1 step. The Ariadni card 2 moves them 2 steps. and the Minotaur Card move the opponents Archaeologist 2 steps behind and make the Theseus not move for an entire round.
